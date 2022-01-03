@@ -54,5 +54,5 @@ Chương 8: Vấn đề nhân sự trong SQA.
 [chapter7-docs]: https://drive.google.com/file/d/1CKdQolYTC2kvMo3IPNWUnn0POI0eCzgN/view?usp=sharing
 [chapter8-docs]: https://docs.google.com/presentation/d/1V6L_Y5FyjPHE9957MuMG0LO9viBDDs28/edit?usp=sharing&ouid=103630476810295172551&rtpof=true&sd=true
 
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-gh]:   https://phamthuongblog.github.io/work/
 
