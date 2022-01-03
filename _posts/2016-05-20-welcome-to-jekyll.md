@@ -6,6 +6,11 @@ date: 2022-01-03 21:11:27
 author: P.T.Thuong
 ---
 
+Toàn bộ lý thuyết của khoá học được bố cục thành 8 chương : Chương 1 -> Chương 8 bao phủ toàn bộ nội dung kiến thức của hệ thống SQA.
+Học viên cần đọc hiểu toàn bộ các phần kiến thức được cung cấp trong các bài học và làm đầy đủ các bài tập tiểu luận tương ứng với từng bài học.
+
+
+
 Chương 1: Tổng quan về đảm bảo chất lượng phần mềm.
 => Nội dung chi tiết mời các bạn xem tại [Chương 1][chapter1-docs]. 
 => Các mô đun thực hành/thảo luận của Chương 1, mời các bạn xem tại [here][jekyll-gh].
